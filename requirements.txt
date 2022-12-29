@@ -30,6 +30,7 @@ python-dotenv
 python-magic
 python-telegram-bot
 qbittorrent-api
+qbittorrent-nox
 requests
 speedtest-cli
 telegraph
